@@ -1,0 +1,20 @@
+.header-top {
+    padding: 15px 0px!important;
+}
+
+.iconly-Location:before {
+    content: '\2709';
+} 
+
+.home-contain .home-detail p {
+    color: white!important;
+}
+
+.home-contain .home-detail .shop-button {
+    color: black!important;
+    font-weight: bold;
+}
+
+.banner-contain .banner-details .banner-button {
+    color: #222!important;
+}
