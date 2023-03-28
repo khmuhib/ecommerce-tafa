@@ -1,24 +1,28 @@
 .header-top {
-    padding: 15px 0px!important;
+  padding: 15px 0px !important;
 }
 
 .iconly-Location:before {
-    content: '\2709';
-} 
+  content: "\2709";
+}
 
 .home-contain .home-detail p {
-    color: white!important;
+  color: white !important;
 }
 
 .home-contain .home-detail .shop-button {
-    color: black!important;
-    font-weight: bold;
+  color: black !important;
+  font-weight: bold;
 }
 
 .banner-contain .banner-details .banner-button {
-    color: #222!important;
+  color: #222 !important;
 }
 
-.mobile-menu ul li a i{
-    color: white!important;
+.mobile-menu ul li a i {
+  color: white !important;
+}
+
+.newsletter-detail h2 {
+  color: #e10303 !important;
 }
